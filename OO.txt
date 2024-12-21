@@ -2,7 +2,7 @@ AAAAAAAAA
 SSSSSSSSS
 SSSS
 #include <iostream> 
-using name sapce std ;
+using namesapce std ;
 int main( )
 {
   cout<< " hello world "\n;
