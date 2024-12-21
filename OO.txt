@@ -5,7 +5,7 @@ SSSS
 using name sapce std ;
 int main( )
 {
-  cout<< " fuck my life"\n;
+  cout<< " hello world "\n;
 
 
 return0;
