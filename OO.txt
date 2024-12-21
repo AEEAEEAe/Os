@@ -2,10 +2,11 @@ AAAAAAAAA
 SSSSSSSSS
 SSSS
 #include <iostream> 
-using namesapce std ;
+using namespace std ;
 int main( )
 {
   cout<< " hello world "\n;
+cout<<"HALA MADRID"<<endl;
 
 
 return0;
